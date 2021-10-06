@@ -1,4 +1,4 @@
-# Tracer contest 
+# Tracer contest details
 - $28,500 USDC (+ $19,000 in tokens) main award pot
 - $1,500 USDC (+ $1,000 in tokens) gas optimization award pot
 - Join [C4 Discord](https://discord.gg/EY5dvm3evD) to register
