@@ -84,7 +84,7 @@ Under "SPONSORS ADD INFO HERE" heading below, include the following:
 - Starts October 7, 2021 00:00 UTC
 - Ends October 13, 2021 23:59 UTC
 
-Contracts can be found [here (note: commit 646360b)](https://github.com/tracer-protocol/perpetual-pools-contracts/tree/646360b0549962352fe0c3f5b214ff8b5f73ba51).
+# Contracts can be found [here (note: commit 646360b)](https://github.com/tracer-protocol/perpetual-pools-contracts/tree/646360b0549962352fe0c3f5b214ff8b5f73ba51).
 
 # Tracer Perpetual Pools
 Project base generated with the Typescript Solidity Dev Starter Kit. See [Blog Post](https://medium.com/@rahulsethuram/the-new-solidity-dev-stack-buidler-ethers-waffle-typescript-tutorial-f07917de48ae) for more details
