@@ -1,6 +1,6 @@
 # Tracer contest details
-- $28,500 USDC (+ $19,000 in tokens) main award pot
-- $1,500 USDC (+ $1,000 in tokens) gas optimization award pot
+- &#36;28,500 USDC (+ &#36;19,000 in tokens) main award pot
+- &#36;1,500 USDC (+ &#36;1,000 in tokens) gas optimization award pot
 - Join [C4 Discord](https://discord.gg/EY5dvm3evD) to register
 - Submit findings [using the C4 form](https://code423n4.com/2021-10-tracer-contest/submit)
 - [Read our guidelines for more details](https://docs.code4rena.com/roles/wardens)
